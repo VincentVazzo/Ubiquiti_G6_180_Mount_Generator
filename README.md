@@ -62,6 +62,6 @@ Your DXF is now perfectly formatted!
 
 1. Head over to [SendCutSend](https://app.sendcutsend.com/quote).
 2. Upload your new `.dxf` file. Ensure the system reads the overall dimensions correctly in millimeters.
-3. **Material Recommendations:** Since this will live outside, select a rust-proof material. **5052 Aluminum** (lightweight and easy to drill if you make a mistake) or **304 Stainless Steel** (incredibly rigid) are ideal for exterior soffit mounts.
+3. **Material Recommendations:** Since this will live outside, select a rust-proof material. **6061 T6 Aluminum** (what I used) or **304 Stainless Steel** (incredibly rigid) are ideal for exterior soffit mounts.
 
 ![/images/SendCutSend_Bracket.png](https://github.com/VincentVazzo/Ubiquiti_G6_180_Mount_Generator/blob/e7e4fd4b2b0962696b7cd056607770d613baa33c/images/SendCutSend_Bracket.png "SendCutSend with Imported Bracket")
