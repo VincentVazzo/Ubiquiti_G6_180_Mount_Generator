@@ -1,4 +1,4 @@
-# Parametric Camera Soffit Mount
+# Ubiquiti G6 180 - Parametric Soffit Mount
 
 A fully customizable, parametric camera mount designed to be laser-cut from sheet metal and tucked neatly into your exterior eaves or soffits. 
 
