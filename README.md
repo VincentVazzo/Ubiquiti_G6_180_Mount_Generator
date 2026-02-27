@@ -26,6 +26,8 @@ You will need two free, open-source programs to generate your cut files:
 
 > **⚠️ CRITICAL:** You MUST uncheck `show_gutter_debug` before proceeding to the next step! Leaving it on will merge the red warning blocks into your final cut file.
 
+![/images/openSCAD_Bracket.png](https://github.com/VincentVazzo/Ubiquiti_G6_180_Mount_Generator/blob/e7e4fd4b2b0962696b7cd056607770d613baa33c/images/openSCAD_Bracket.png "OpenSCAD Screenshot")
+
 ---
 
 ## 💾 Step 2: Export from OpenSCAD
@@ -48,6 +50,8 @@ OpenSCAD's native DXF exports are often rejected by modern automated laser-cutti
 5. Go to **File > Save As...** 7. In the format dropdown, select **Desktop Cutting Plotter (AutoCAD DXF R14) (*.dxf)** and hit Save.
 6. A secondary dialog box will appear. **Uncheck** both "Use" options (like ROBO-Master splines). Ensure the **Base unit** is set to **mm** and Character Encoding is **UTF8**. Click **OK**.
 
+![/images/Inkscape_Bracket.png](https://github.com/VincentVazzo/Ubiquiti_G6_180_Mount_Generator/blob/e7e4fd4b2b0962696b7cd056607770d613baa33c/images/Inkscape_Bracket.png "InkScape Screenshot")
+
 ---
 
 ## 🛒 Step 4: Order Your Parts
@@ -57,3 +61,5 @@ Your DXF is now perfectly formatted!
 1. Head over to [SendCutSend](https://app.sendcutsend.com/quote).
 2. Upload your new `.dxf` file. Ensure the system reads the overall dimensions correctly in millimeters.
 3. **Material Recommendations:** Since this will live outside, select a rust-proof material. **5052 Aluminum** (lightweight and easy to drill if you make a mistake) or **304 Stainless Steel** (incredibly rigid) are ideal for exterior soffit mounts.
+
+![/images/SendCutSend_Bracket.png](https://github.com/VincentVazzo/Ubiquiti_G6_180_Mount_Generator/blob/e7e4fd4b2b0962696b7cd056607770d613baa33c/images/SendCutSend_Bracket.png "SendCutSend with Imported Bracket")
