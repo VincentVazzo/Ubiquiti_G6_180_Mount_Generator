@@ -2,7 +2,9 @@
 
 A fully customizable, parametric camera mount designed to be laser-cut from sheet metal and tucked neatly into your exterior eaves or soffits. 
 
-This project is perfect for getting those exterior security cameras permanently and securely mounted, especially if you are taking the time to hardwire them back to a dedicated camera VLAN on your Ubiquiti gear or other home network setup.
+![images/g6_180_installed.jpg](https://github.com/VincentVazzo/Ubiquiti_G6_180_Mount_Generator/blob/121bb11adb852fdd8c970b8fb9f2a839cf0fdafb/images/g6_180_installed.jpg "G6 180 Installed Hanging from a Soffit")
+
+This project is perfect for getting a Ubiquiti G6 180 permanently and securely mounted.
 
 Because laser-cutting services like [SendCutSend](https://sendcutsend.com/) require highly specific 2D vector files, this guide will walk you through customizing the dimensions in OpenSCAD and formatting the final file in Inkscape so it passes the automated quoting systems perfectly.
 
