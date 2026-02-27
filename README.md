@@ -32,7 +32,8 @@ You will need two free, open-source programs to generate your cut files:
 
 1. With `show_gutter_debug` unchecked, press **F6** to Render the final 2D geometry. The design should turn a solid color (usually yellow/green).
 2. Go to **File > Export > Export as SVG...**
-3. Save the file to your computer.
+3. Uncheck Fill and Stroke options.
+4. Save the file to your computer.
 
 ---
 
