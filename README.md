@@ -9,7 +9,7 @@ Because laser-cutting services like [SendCutSend](https://sendcutsend.com/) requ
 ## 🛠️ Software Requirements
 
 You will need two free, open-source programs to generate your cut files:
-1. **[OpenSCAD](https://openscad.org/downloads.html)**: To customize the parametric model.
+1. **[OpenSCAD](https://openscad.org/downloads.html)**: To customize the parametric model.  For better performance, download a "Nightly Build" instead of the latest Release (really).
 2. **[Inkscape](https://inkscape.org/)**: To format the vector paths specifically for SendCutSend.
 
 ---
