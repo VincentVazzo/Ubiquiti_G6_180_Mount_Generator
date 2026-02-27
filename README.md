@@ -45,9 +45,8 @@ OpenSCAD's native DXF exports are often rejected by modern automated laser-cutti
 2. Press **Ctrl + A** (or Cmd + A on Mac) to select the entire object.
 3. Go to **Path > Union** in the top menu. This welds all the OpenSCAD shapes into one continuous, laser-ready path.
 4. Go to **File > Document Properties** (or Shift + Ctrl + D).
-5. In the "Custom Size" section, click the **Resize Page to Drawing or Selection** button. Your canvas will snap perfectly to the edges of your mount. Close the document properties window.
-6. Go to **File > Save As...** 7. In the format dropdown, select **Desktop Cutting Plotter (AutoCAD DXF R14) (*.dxf)** and hit Save.
-8. A secondary dialog box will appear. **Uncheck** both "Use" options (like ROBO-Master splines). Ensure the **Base unit** is set to **mm** and Character Encoding is **UTF8**. Click **OK**.
+5. Go to **File > Save As...** 7. In the format dropdown, select **Desktop Cutting Plotter (AutoCAD DXF R14) (*.dxf)** and hit Save.
+6. A secondary dialog box will appear. **Uncheck** both "Use" options (like ROBO-Master splines). Ensure the **Base unit** is set to **mm** and Character Encoding is **UTF8**. Click **OK**.
 
 ---
 
